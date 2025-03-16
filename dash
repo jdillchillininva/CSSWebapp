@@ -241,6 +241,7 @@ body .dbc .dash-table-container .dash-spreadsheet-container .dash-spreadsheet-in
 
 .dbc .DateRangePickerInput__withBorder {
   border-color: rgba(100, 100, 100, 0.4) !important;
+  background-color: var(bs-gray-200);
 }
 
 .dbc .DateInput_fangStroke {
